@@ -49,7 +49,3 @@ div#postit a#portfolio {
 
 div#postit a#portfolio:hover {
 	background:transparent url(post_it.png) 0 -225px scroll no-repeat; }
-
-div#powered-by {
-	display:none; }
-
